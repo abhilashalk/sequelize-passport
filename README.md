@@ -1,8 +1,8 @@
 **Instructions**
 
-* Clone this repo. If you would find it useful, setup a database and install dependencies.
+* Write a reverse engineering script that explains the functionality of [this application](https://github.com/nielsenjared/sequelize-passport). Be detailed and articulate. Research any new and unfamiliar concepts or syntax and include links to the sources in your document.
 
-* Write a reverse engineering script that explains the functionality of this application. Be detailed and articulate. Research any new and unfamiliar concepts or syntax and include links to the sources in your document.
+* If you would find it useful, clone the repo, setup a database and install dependencies.
 
 * Refer to this example: https://docs.google.com/document/d/1fmsQ9SpSRsAxUUYPvhS_dVhOCGCcBi295298iow6Gjs/edit?usp=sharing
 
